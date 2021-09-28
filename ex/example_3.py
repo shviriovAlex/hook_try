@@ -1,5 +1,6 @@
 import math
-"""lalala."""
+
+"""Valhalla."""
 
 a = 13
-c= 3
+c = 3
